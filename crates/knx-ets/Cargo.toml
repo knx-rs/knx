@@ -5,3 +5,7 @@ edition.workspace = true
 authors.workspace = true
 repository = "https://github.com/knx-rs/knx/crates/knx-ets"
 readme = "README.md"
+
+[dependencies]
+snafu.workspace = true
+zip_next.workspace = true
