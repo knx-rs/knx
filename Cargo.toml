@@ -1,0 +1,13 @@
+[workspace]
+members = ["crates/*"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Techassi <git@techassi.dev>"]
+repository = "https://github.com/knx-rs/knx"
+
+[workspace.dependencies]
+zip_next = "0.11.0"
+snafu = "0.8.2"
+hard-xml = "1.36.0"

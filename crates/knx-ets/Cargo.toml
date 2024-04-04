@@ -1,0 +1,7 @@
+[package]
+name = "knx-ets"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+repository = "https://github.com/knx-rs/knx/crates/knx-ets"
+readme = "README.md"
